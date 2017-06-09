@@ -750,9 +750,9 @@ font-size: 20px;
 }
 
 .footer-text{
-    display: flex;
+    /*display: flex;*/
     font-family:'PT Sans',sans-serif;
     color:white;
-    align-self: center;
+    /*align-self:center;*/
 }
 }
